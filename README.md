@@ -1,7 +1,7 @@
 - 👋 Hi I’m @OrekaCode
 - 👀 I’m interested in Machine learning with Python 
 - 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on any project forementioned 
+- 💞️ I’m looking to collaborate on any project concerning machine learning 
 - 📫 How to reach me maryoreka@gmail.com
 
 <!---
